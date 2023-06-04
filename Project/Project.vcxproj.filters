@@ -13,19 +13,58 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\chapter 1">
+      <UniqueIdentifier>{a924dd32-690f-419d-b443-6990af81423b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\chapter 2">
+      <UniqueIdentifier>{d1d67c56-0950-485b-ac8c-8deb638c6af4}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="auto.cpp">
+      <Filter>Source Files\chapter 2</Filter>
     </ClCompile>
     <ClCompile Include="Algorithmls.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="literals.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\chapter 1</Filter>
     </ClCompile>
     <ClCompile Include="chronoLiterals.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\chapter 1</Filter>
+    </ClCompile>
+    <ClCompile Include="enumTypes.cpp">
+      <Filter>Source Files\chapter 1</Filter>
+    </ClCompile>
+    <ClCompile Include="fnPointer.cpp">
+      <Filter>Source Files\chapter 1</Filter>
+    </ClCompile>
+    <ClCompile Include="nullptr.cpp">
+      <Filter>Source Files\chapter 1</Filter>
+    </ClCompile>
+    <ClCompile Include="nullptr2.cpp">
+      <Filter>Source Files\chapter 1</Filter>
+    </ClCompile>
+    <ClCompile Include="nullptr3.cpp">
+      <Filter>Source Files\chapter 1</Filter>
+    </ClCompile>
+    <ClCompile Include="pointers.cpp">
+      <Filter>Source Files\chapter 1</Filter>
+    </ClCompile>
+    <ClCompile Include="refernce.cpp">
+      <Filter>Source Files\chapter 1</Filter>
+    </ClCompile>
+    <ClCompile Include="scopedEnum.cpp">
+      <Filter>Source Files\chapter 1</Filter>
+    </ClCompile>
+    <ClCompile Include="literals.cpp">
+      <Filter>Source Files\chapter 1</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files\chapter 1</Filter>
+    </ClCompile>
+    <ClCompile Include="structptr.cpp">
+      <Filter>Source Files\chapter 1</Filter>
+    </ClCompile>
+    <ClCompile Include="auto2.cpp">
+      <Filter>Source Files\chapter 2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
