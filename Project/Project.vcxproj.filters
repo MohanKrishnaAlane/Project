@@ -24,5 +24,8 @@
     <ClCompile Include="literals.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="chronoLiterals.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
